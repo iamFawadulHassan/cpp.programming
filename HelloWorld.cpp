@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"This is my C++ program \n For github start.";
+	cout<<"This is my C++ program."<<endl;
+	cout<<"From github.";
 }
-//Coded by Fawad ul Hassan
