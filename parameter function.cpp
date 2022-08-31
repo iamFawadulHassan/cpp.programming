@@ -3,6 +3,7 @@ using namespace std;
 void Welcome(string Name);
 int main()
 {
+	//string data type used
 	string YourName;
 	cout<<"Enter your name";
 	getline(cin,YourName);
