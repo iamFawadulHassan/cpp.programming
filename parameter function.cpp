@@ -10,6 +10,6 @@ int main()
 }
 void Welcome(string Name)
 {
-Welcome Message="Welcome to the program Mr."+Name;
+string Message="Welcome to the program Mr."+Name;
 cout<<Message;
 }
